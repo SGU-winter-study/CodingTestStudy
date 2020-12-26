@@ -51,28 +51,22 @@ https://github.com/Dong-wook94/KNU-AlgorithmStudy
 
 
 ### :guitar: 이외에 풀만한 문제 목록들
+
 =초보 추천===================================
-[알고리즘 초보 유형익히기]
-https://www.acmicpc.net/step
 
-[M과 N(순열 조합, 완탐 뽀개기)]
-https://www.acmicpc.net/workbook/view/2052
+[알고리즘 초보 유형익히기](https://www.acmicpc.net/step)
 
-[난이도 하(SDS 기본반)]
-https://www.acmicpc.net/workbook/view/2047
+[M과 N(DFS, 순열 조합, 완탐 뽀개기)](https://www.acmicpc.net/workbook/view/2052)
 
-코딩테스트 고득점 Kit
-https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
+[난이도 하(SDS 기본반)](https://www.acmicpc.net/workbook/view/2047)
 
-SQL 고득점 Kit
-https://programmers.co.kr/learn/challenges?tab=sql_practice_kit
+[코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
+
+[SQL 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit)
+
 ============================================
 
-코딩테스트 등급별 문제
-https://programmers.co.kr/learn/challenges
-
-[난이도 중상(SDS 심화반), 스드스 프로반 기본문제]
-https://www.acmicpc.net/workbook/view/2048 
+[난이도 중상(SDS 심화반), 스드스 프로반 기본문제](https://www.acmicpc.net/workbook/view/2048)
 
 [시뮬뽀개기]
 https://www.acmicpc.net/problem/2933
