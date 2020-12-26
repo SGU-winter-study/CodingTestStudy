@@ -48,3 +48,66 @@ https://github.com/Dong-wook94/KNU-AlgorithmStudy
 | 21주차 | [게리멘더링](https://www.acmicpc.net/problem/17471)          | [알파벳](https://www.acmicpc.net/problem/1987)               | [소형기관차](https://www.acmicpc.net/problem/2616)           |
 | 22주차 | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | [디스크 트리](https://www.acmicpc.net/problem/7432)          | [통나무옮기기](https://www.acmicpc.net/problem/1938)         |
 | 23주차 | [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) | [앱](https://www.acmicpc.net/problem/7579)                   | [내리막길](https://www.acmicpc.net/problem/1520)             |
+
+
+### :guitar: 이외에 풀만한 문제 목록들
+=초보 추천===================================
+[알고리즘 초보 유형익히기]
+https://www.acmicpc.net/step
+
+[M과 N(순열 조합, 완탐 뽀개기)]
+https://www.acmicpc.net/workbook/view/2052
+
+[난이도 하(SDS 기본반)]
+https://www.acmicpc.net/workbook/view/2047
+
+코딩테스트 고득점 Kit
+https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
+
+SQL 고득점 Kit
+https://programmers.co.kr/learn/challenges?tab=sql_practice_kit
+============================================
+
+코딩테스트 등급별 문제
+https://programmers.co.kr/learn/challenges
+
+[난이도 중상(SDS 심화반), 스드스 프로반 기본문제]
+https://www.acmicpc.net/workbook/view/2048 
+
+[시뮬뽀개기]
+https://www.acmicpc.net/problem/2933
+https://www.acmicpc.net/problem/11559
+https://www.acmicpc.net/problem/3568
+https://www.acmicpc.net/problem/2290
+https://www.acmicpc.net/problem/16113
+https://www.acmicpc.net/problem/15898
+https://www.acmicpc.net/problem/15778
+https://www.acmicpc.net/problem/1194
+https://www.acmicpc.net/problem/3197
+https://www.acmicpc.net/problem/6987
+https://www.acmicpc.net/problem/8911
+https://www.acmicpc.net/problem/16506
+
+[백준 연습해보기]
+https://www.acmicpc.net/problem/9663
+https://www.acmicpc.net/problem/2573
+https://www.acmicpc.net/problem/1261
+https://www.acmicpc.net/problem/3184
+https://www.acmicpc.net/problem/10711
+https://www.acmicpc.net/problem/14620
+https://www.acmicpc.net/problem/4179
+https://www.acmicpc.net/problem/3055
+https://www.acmicpc.net/problem/1799
+https://www.acmicpc.net/problem/9376
+https://www.acmicpc.net/problem/14442
+https://www.acmicpc.net/problem/2422
+https://www.acmicpc.net/problem/2933
+https://www.acmicpc.net/problem/16198
+https://www.acmicpc.net/problem/16197
+https://www.acmicpc.net/problem/3019
+https://www.acmicpc.net/problem/2916
+https://www.acmicpc.net/problem/3197
+https://www.acmicpc.net/problem/12906
+
+[SWEA 풀만한 새로나온 문제 추천(중상)]
+https://swexpertacademy.com/
