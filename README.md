@@ -20,6 +20,8 @@ https://github.com/Dong-wook94/KNU-AlgorithmStudy
 - 문제 난이도는 되도록 기준(백준 solved.ac 기준 실버4 이상, 프로그래머스 lv2 이상, SWEA D3 이상) 준수
 - 매주 3문제씩 카카오/삼성기출 공통문제 선정 및 리뷰.
 - 위와 같이 주마다 풀이 코드및 문제 풀이 설명을 업로드
+- 파일 이름 형식 {사이트명}_문제번호_날짜 ex) BOJ_1967_201228
+- 커밋 형식 Github아이디_날짜_문제이름_커밋순서
 
 ### :rainbow: Week Problems List
 
