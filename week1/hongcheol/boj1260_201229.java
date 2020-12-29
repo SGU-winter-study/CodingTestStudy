@@ -16,7 +16,7 @@ public class q1260 {
         v = sc.nextInt();//이렇게 하면 한 줄에 입력한거 다 받을 수 있다는거 까먹어서 구글링했음.
 
         for(int i = 0;i<n;i++){
-            graph.put(i+1,new ArrayList<>());
+            graph.put(i+1,new ArrayList<>());//입력 노드가 0부터가 아니라 1부터여서 이렇게 초기화.(for문의 조건문에 = 들어가는걸 별로 안좋아해서 이렇게 코딩)
         }//초기화 해줘야지 아래의 반복문에서 nullPointException 발생하지않는다.
         
         for(int i = 0;i<m;i++){
