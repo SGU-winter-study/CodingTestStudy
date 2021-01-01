@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
-// Ç®ÀÌ: https://blog.naver.com/shiftlbns/222192460312
-// TODO: graph ·Î ±¸Çö
+// SOL: https://blog.naver.com/shiftlbns/222192460312
+// TODO: graph Ë‡ÃŽ Ä…Â¸Ã‡Ã¶
 int get_path(int** mem, int** tab, bool **mark, int i, int j) {
 	if (mem[i - 1][j] > mem[i][j]) {
 		if (mark[i - 1][j]) tab[i][j] += tab[i - 1][j];
